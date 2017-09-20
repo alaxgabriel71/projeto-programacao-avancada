@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1504658253 source:c:\users\alax\desktop\gabriel\programação\pa projeto 1 - u ii\main.cpp
+	<iostream>
+	"point.h"
+
+1504658338 c:\users\alax\desktop\gabriel\programação\pa projeto 1 - u ii\point.h
+
+1504658338 source:c:\users\alax\desktop\gabriel\programação\pa projeto 1 - u ii\point.cpp
+	"point.h"
+	<iostream>
+	<cmath>
+
