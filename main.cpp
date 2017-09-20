@@ -1,11 +1,11 @@
-#include <iostream>
+e#include <iostream>
 #include "point.h"
 
 using namespace std;
 
 int main()
 {
-    // Escrevr comentarios para o readme
+    // Escrever comentarios para o readme
     Point p1, p2, p3;
     float a = 1, b = 0, c = 0, d = 0, norma, n=1, m=2;
 
